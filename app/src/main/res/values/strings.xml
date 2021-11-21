@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mi Primera Aplicacion</string>
+    <string name="calcular">Calcular</string>
+    <string name="calculadora">Primera Calculadora</string>
+    <string name="operacion">Operacion</string>
+    <string name="resultado">Resultado</string>
+    <string name="numero_2">Número 2</string>
+    <string name="numero_1">Número 1</string>
+    <string name="navegar">Navegar</string>
+    <string name="toast">Mostrar Toast</string>
+
+    <string-array name="operaciones">
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicación</item>
+        <item>División</item>
+    </string-array>
+
+</resources>
